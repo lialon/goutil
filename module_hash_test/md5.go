@@ -1,4 +1,4 @@
-package ha
+package goutil
 
 import (
 	"crypto/md5"
